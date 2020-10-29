@@ -1,0 +1,13 @@
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.exe
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.deps.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.runtimeconfig.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.runtimeconfig.dev.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\bin\Debug\netcoreapp3.1\P02_Re-Volt.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.csprojAssemblyReference.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.AssemblyInfoInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.AssemblyInfo.cs
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.csproj.CoreCompileInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P02_Re-Volt\obj\Debug\netcoreapp3.1\P02_Re-Volt.genruntimeconfig.cache

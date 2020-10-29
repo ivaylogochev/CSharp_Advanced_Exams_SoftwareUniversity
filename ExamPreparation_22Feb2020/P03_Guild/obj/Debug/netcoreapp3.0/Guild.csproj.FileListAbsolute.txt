@@ -1,0 +1,13 @@
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.csprojAssemblyReference.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.exe
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.deps.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.runtimeconfig.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.runtimeconfig.dev.json
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\bin\Debug\netcoreapp3.1\P01_Lootbox.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.AssemblyInfoInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.AssemblyInfo.cs
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.dll
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.pdb
+C:\Users\igochev2\source\repos\C#Advanced\ExamPrep_22Feb2020\P01_Lootbox\obj\Debug\netcoreapp3.1\P01_Lootbox.genruntimeconfig.cache
